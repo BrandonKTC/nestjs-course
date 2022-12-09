@@ -4,7 +4,7 @@
 
 - [x] Introduction to NestJS & Pre-requisites
 - [x] Task Management Application (REST API)
-- [] Validation and Error Handling
+- [x] Validation and Error Handling
 - [] Data Persistence - PostgreSQL and TypeORM
 - [] Auth Part1 - Authentication
 - [] Auth Part2 - Task Ownership and Restrictions
