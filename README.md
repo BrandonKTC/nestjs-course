@@ -3,7 +3,7 @@
 - ## Develop and deploy enterprise back-end applications following best practices using Node.js and TypeScript
 
 - [x] Introduction to NestJS & Pre-requisites
-- [] Task Management Application (REST API)
+- [x] Task Management Application (REST API)
 - [] Validation and Error Handling
 - [] Data Persistence - PostgreSQL and TypeORM
 - [] Auth Part1 - Authentication
